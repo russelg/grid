@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-#
+# pyhk (https://github.com/schurpf/pyhk)
 # Copyright (C) 2011 Michael Schurpf
 # E-mail: michaelschuerpf AT gmail DOT com
 #
